@@ -4,7 +4,7 @@
 // @author       wenmoux
 // @lang         zh-cn
 // @license      MIT
-// @icon         https://www.uaa.com/assets/uaalogo.7acb1f90.svg
+// @icon         https://m.uaa.com/assets/favicon-d16bbc72.ico
 // @package      uaa.com
 // @type         bangumi
 // @webSite      https://www.uaa.com/api/video/app/video
